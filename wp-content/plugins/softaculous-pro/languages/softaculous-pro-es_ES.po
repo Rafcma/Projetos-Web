@@ -1,0 +1,1906 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SoftWP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-09 13:41+0000\n"
+"PO-Revision-Date: 2025-01-09 18:02+0100\n"
+"Last-Translator: Doominio.com <info@doominio.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1\n"
+"X-Domain: softaculous-pro\n"
+
+#: main/intros.php:27
+#, fuzzy
+msgid ""
+"A recommended list of plugins to improve performace and extend "
+"functionalties for your site."
+msgstr ""
+"Una lista de plugins recomendados para mejorar el rendimiento y ampliar las "
+"funcionalidades de su sitio."
+
+#: main/media.php:95
+msgid "Action Buttons"
+msgstr "Botones de Acción"
+
+#: main/admin.php:120 main/manage-plugins.php:116
+msgid "Activate"
+msgstr "Activar"
+
+#: main/admin.php:122 main/manage-plugins.php:90 main/manage-plugins.php:106
+#: main/manage-plugins.php:118
+msgid "Active"
+msgstr "Activo"
+
+#: main/intros.php:224
+msgid "Active Theme"
+msgstr "Plantilla Activa"
+
+#: main/intros.php:264
+msgid "Activity"
+msgstr "Actividad"
+
+#: main/intros.php:302
+#, fuzzy
+msgid ""
+"Add a new user for your site. You can enter user details, password, role, "
+"etc."
+msgstr ""
+"Añada un nuevo usuario para su sitio. Puede introducir los detalles del "
+"usuario, contraseña, rol, etc."
+
+#: main/admin.php:159 main/admin.php:165 main/admin.php:171 main/admin.php:177
+#: main/admin.php:183 main/admin.php:189
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: main/intros.php:417
+msgid "Add New Page"
+msgstr "Agregar nueva página"
+
+#: main/intros.php:166
+msgid "Add New Plugin"
+msgstr "Añadir Nuevo"
+
+#: main/intros.php:356
+msgid "Add New Post"
+msgstr "Añadir nuevo texto"
+
+#: main/intros.php:212
+msgid "Add New Theme"
+msgstr "Agregar tema"
+
+#: main/intros.php:301
+msgid "Add New User"
+msgstr "Añadir nuevo usuario"
+
+#: main/intros.php:117
+#, fuzzy
+msgid "Add or manage users to ensure smooth operation and collaboration."
+msgstr ""
+"Añada o gestione usuarios para garantizar el buen funcionamiento y la "
+"colaboración."
+
+#: main/intros.php:129
+msgid ""
+"Advanced settings for your site can be managed here. <br /><br />These "
+"settings include site title, tagline, site url, writing, reading, "
+"discussion, media, permalinks and more.<br /><br />Some plugins also add "
+"their settings page in this menu."
+msgstr ""
+"Aquí puede gestionar los ajustes avanzados de su sitio. <br /><br />Estos "
+"ajustes incluyen el título del sitio, tagline, url del sitio, escritura, "
+"lectura, discusión, medios de comunicación, permalinks y más.<br /><br /"
+">Algunos plugins también añaden su página de configuración en este menú."
+
+#: main/admin.php:216 main/admin.php:340 main/admin.php:346
+#: main/functions.php:837 main/intros.php:44
+msgid "AI"
+msgstr "IA"
+
+#: main/functions.php:869 main/functions.php:870
+#, fuzzy
+msgid "AI History"
+msgstr "Historia de la IA"
+
+#: main/admin.php:238
+#, fuzzy
+msgid "AI history retention"
+msgstr "Conservación del historial de IA"
+
+#: main/ai.php:88
+#, fuzzy
+msgid "AI shortcut can not be applied without any content."
+msgstr "El acceso directo AI no puede aplicarse sin ningún contenido."
+
+#: main/onboarding.php:960
+msgid "All"
+msgstr "Todo"
+
+#: main/intros.php:424
+#, fuzzy
+msgid "All the pages on your site will be listed here."
+msgstr "Todas las páginas de su sitio aparecerán aquí."
+
+#: main/intros.php:363
+#, fuzzy
+msgid "All the posts owned by all the users on your site will be listed here."
+msgstr "Aquí aparecerán todas las entradas de todos los usuarios de su sitio."
+
+#: main/intros.php:173
+#, fuzzy
+msgid ""
+"All your installed plugins active as well as inactive will be listed here."
+msgstr ""
+"Todos los plugins instalados, tanto activos como inactivos, aparecerán aquí."
+
+#: main/intros.php:219
+#, fuzzy
+msgid ""
+"All your installed themes active as well as inactive will be listed here."
+msgstr ""
+"Aquí aparecerán todos los temas instalados, tanto activos como inactivos."
+
+#: main/intros.php:308
+#, fuzzy
+msgid ""
+"All your users with admin role as well as other roles will be listed here."
+msgstr ""
+"Todos sus usuarios con rol de administrador así como otros roles serán "
+"listados aquí."
+
+#: main/intros.php:104
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: main/admin.php:558
+#, fuzzy
+msgid "Are you sure you want to skip the Tour?"
+msgstr "¿Seguro que quieres saltarte el Tour?"
+
+#: main/admin.php:55 main/functions.php:244 main/intros.php:14
+#: main/onboarding.php:1039
+msgid "Assistant"
+msgstr "Asistente"
+
+#: main/intros.php:15
+msgid ""
+"Assistant adds AI to your site building process and lets you create content "
+"with just a few clicks (look for the AI option while editing your posts/"
+"pages). <br /><br />Assistant also helps you with several aspects of "
+"building and maintaning your WordPress website."
+msgstr ""
+"Assistant añade IA al proceso de creación de su sitio y le permite crear "
+"contenido con sólo unos clics (busca la opción de IA mientras editas tus "
+"entradas/páginas). <br /><br />Assistant también le ayuda con varios "
+"aspectos de la creación y el mantenimiento de su sitio web WordPress."
+
+#: main/intros.php:51 main/intros.php:61
+msgid ""
+"Assistant resides here, when you are unable to find something or having a "
+"hard time understanding a feature in WordPress we should be able to help "
+"you. <br /><br />Visit this page anytime."
+msgstr ""
+"Asistente reside aquí, cuando usted es incapaz de encontrar algo o tiene "
+"dificultades para entender una característica en WordPress debemos ser "
+"capaces de ayudarle. <br /><br />Visite esta página en cualquier momento."
+
+#: main/onboarding.php:135
+#, fuzzy
+msgid "Backup your site on local or remote servers"
+msgstr "Haga copias de seguridad de su sitio en servidores locales o remotos"
+
+#: main/onboarding.php:144
+#, fuzzy
+msgid ""
+"Backuply is a WordPress backup plugin that helps you backup your WordPress "
+"website, saving you from loss of data because of server crashes, hacks, "
+"dodgy updates, or bad plugins."
+msgstr ""
+"Backuply es un plugin de copia de seguridad de WordPress que le ayuda a "
+"realizar copias de seguridad de su sitio web de WordPress, salvándole de la "
+"pérdida de datos debido a caídas del servidor, hacks, actualizaciones "
+"dudosas o plugins malos."
+
+#: main/onboarding.php:139
+#, fuzzy
+msgid "Backuply – Backup, Restore, Migrate and Clone"
+msgstr "Backuply - Copia de seguridad, restauración, migración y clonación"
+
+#: main/onboarding.php:106
+msgid ""
+"Boost your website's search rankings today with the most powerful WordPress "
+"SEO plugin. Its lightweight, optimized, and delivers exceptional performance."
+msgstr ""
+"Impulse hoy mismo el posicionamiento de su sitio web con el plugin SEO para "
+"WordPress más potente. Es ligero, optimizado y ofrece un rendimiento "
+"excepcional."
+
+#: main/onboarding.php:167
+#, fuzzy
+msgid "Brute force protection, 2FA, login captcha"
+msgstr "Protección contra fuerza bruta, 2FA, captcha de inicio de sesión"
+
+#: main/intros.php:184 main/intros.php:322 main/intros.php:377
+#: main/intros.php:438
+msgid "Bulk Actions"
+msgstr "Acciones en lote"
+
+#: main/setup.php:9
+msgid "Business Type"
+msgstr "Tipo de negocio"
+
+#: main/admin.php:218
+#, fuzzy
+msgid "Buy AI Tokens"
+msgstr "Comprar AI Tokens"
+
+#: main/setup.php:136
+#, fuzzy
+msgid "Can be changed later"
+msgstr "Puede modificarse posteriormente"
+
+#: main/media.php:246
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: main/intros.php:328
+msgid "Change Role"
+msgstr "Cambiar el rol"
+
+#: main/admin.php:150
+msgid "Check Updates"
+msgstr "Buscar Actualizaciones"
+
+#: main/onboarding.php:952
+msgid "Choose a design"
+msgstr "Elija un diseño"
+
+#: main/media.php:621
+#, fuzzy
+msgid "Choose a file to upload from your computer"
+msgstr "Elija un archivo para cargar desde su ordenador"
+
+#: main/intros.php:439
+#, fuzzy
+msgid "Choose bulk action for selected pages: Quick Edit or Move to Trash."
+msgstr ""
+"Elija una acción masiva para las páginas seleccionadas: Edición rápida o "
+"Mover a la papelera."
+
+#: main/intros.php:185
+#, fuzzy
+msgid ""
+"Choose bulk action for selected plugins: Activate, Deactivate, Update, "
+"Delete, toggle auto updates and more"
+msgstr ""
+"Elija una acción masiva para los plugins seleccionados: Activar, Desactivar, "
+"Actualizar, Eliminar, activar actualizaciones automáticas y mucho más"
+
+#: main/intros.php:378
+#, fuzzy
+msgid "Choose bulk action for selected posts: Quick Edit or Move to Trash."
+msgstr ""
+"Elija una acción masiva para las entradas seleccionadas: Edición rápida o "
+"Mover a la papelera."
+
+#: main/intros.php:323
+#, fuzzy
+msgid ""
+"Choose bulk action for selected users: Delete or send password reset link"
+msgstr ""
+"Elija una acción masiva para los usuarios seleccionados: Eliminar o enviar "
+"enlace de restablecimiento de contraseña"
+
+#: main/setup.php:12
+msgid "Choose Template"
+msgstr "Elija una plantilla"
+
+#: main/intros.php:351
+#, fuzzy
+msgid "Click here to add or manage blog posts on your site."
+msgstr "Haga clic aquí para añadir o gestionar entradas de blog en su sitio."
+
+#: main/intros.php:412
+#, fuzzy
+msgid "Click here to add or manage pages on your site."
+msgstr "Haga clic aquí para añadir o gestionar páginas en su sitio."
+
+#: main/intros.php:161
+#, fuzzy
+msgid "Click here to add or manage plugins on your site."
+msgstr "Haga clic aquí para añadir o gestionar plugins en su sitio."
+
+#: main/intros.php:207
+#, fuzzy
+msgid "Click here to add or manage themes on your site."
+msgstr "Haga clic aquí para añadir o gestionar temas en su sitio."
+
+#: main/intros.php:296
+#, fuzzy
+msgid "Click here to add or manage users on your site."
+msgstr "Haga clic aquí para añadir o gestionar usuarios en su sitio."
+
+#: main/intros.php:98
+msgid "Comments"
+msgstr "Comentarios"
+
+#: main/admin.php:210
+#, fuzzy
+msgid "Completely Disable Comments across the site"
+msgstr "Desactivar completamente los comentarios en todo el sitio"
+
+#: main/media.php:120
+#, fuzzy
+msgid "Compress Image"
+msgstr "Comprimir imagen"
+
+#: main/media.php:499
+#, fuzzy
+msgid "Compression and replacement failed."
+msgstr "Compresión y sustitución fallidas."
+
+#: main/onboarding.php:1028
+#, fuzzy
+msgid "Congratulations, the template was imported successfully !"
+msgstr "Enhorabuena, la plantilla se ha importado correctamente"
+
+#: main/setup.php:128 main/setup.php:145 main/setup.php:186
+msgid "Continue"
+msgstr "Continuar"
+
+#: main/onboarding.php:349
+#, fuzzy
+msgid "Could not download the theme !"
+msgstr "No se puede descargar el tema"
+
+#: main/onboarding.php:367
+#, fuzzy
+msgid "Could not extract the template !"
+msgstr "¡No se ha podido extraer la plantilla !"
+
+#: main/onboarding.php:278
+#, fuzzy
+msgid "Could not import the template !"
+msgstr "No se ha podido importar la plantilla"
+
+#: main/admin.php:336 main/intros.php:74 main/intros.php:246
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: main/admin.php:232 main/admin.php:233 main/admin.php:234
+msgid "Days"
+msgstr "Días"
+
+#: main/onboarding.php:971
+msgid "Demo"
+msgstr "Demo"
+
+#: main/admin.php:227
+#, fuzzy
+msgid "Disable Softaculous AI"
+msgstr "Desactivar Softaculous AI"
+
+#: main/intros.php:140
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: main/intros.php:313
+msgid "Edit User"
+msgstr "Editar Usuario"
+
+#: main/media.php:111
+#, fuzzy
+msgid "Edit with Photopea"
+msgstr "Editar con Photopea"
+
+#: main/functions.php:439
+#, fuzzy
+msgid "Enhance Content Writing with AI Assistant"
+msgstr "Mejore la redacción de contenidos con AI Assistant"
+
+#: main/setup.php:139
+#, fuzzy
+msgid "Enter a title for your website"
+msgstr "Introduzca un título para su sitio web"
+
+#: main/functions.php:799
+#, fuzzy
+msgid "Enter Pro License Key"
+msgstr "Introduzca la clave de licencia Pro"
+
+#: main/setup.php:135
+#, fuzzy
+msgid "Enter the title of your new site"
+msgstr "Introduzca el título de su nuevo sitio"
+
+#: main/onboarding.php:870
+#, fuzzy, php-format
+msgid "Error downloading theme: %1$s"
+msgstr "Error al descargar el tema: %1$s"
+
+#: main/onboarding.php:878
+#, fuzzy
+msgid "Error unzipping theme: "
+msgstr "Error al descomprimir el tema:"
+
+#: main/intros.php:278
+#, fuzzy
+msgid "Events and News"
+msgstr "Eventos y noticias"
+
+#: main/functions.php:445
+msgid "Existing Page"
+msgstr "Redirigir a una página existente (seleccionar del desplegable)"
+
+#: main/functions.php:446
+msgid "Existing Post"
+msgstr "Entrada existente"
+
+#: main/setup.php:75
+msgid "Exit"
+msgstr "Salir"
+
+#: main/intros.php:135
+#, fuzzy
+msgid "Expand or Collapse the sidebar menu using this option."
+msgstr "Amplíe o reduzca el menú de la barra lateral con esta opción."
+
+#: main/intros.php:45
+#, fuzzy
+msgid "Experience hassle-free site building with inbuilt AI in Assistant."
+msgstr ""
+"Experimente la creación de sitios sin complicaciones con la IA incorporada "
+"en Assistant."
+
+#: main/functions.php:835
+#, fuzzy
+msgid "Explore Pro Plugins"
+msgstr "Explorar los plugins Pro"
+
+#: main/admin.php:342 main/admin.php:348
+msgid "Extend"
+msgstr "Ampliar"
+
+#: main/media.php:317
+#, fuzzy
+msgid "Failed to create image from data"
+msgstr "Error al crear imagen a partir de datos"
+
+#: main/media.php:306
+#, fuzzy
+msgid "Failed to decode base64 image data"
+msgstr "Error al descodificar datos de imagen base64"
+
+#: main/media.php:381
+#, fuzzy
+msgid "Failed to insert the new image as attachment"
+msgstr "Error al insertar la nueva imagen como archivo adjunto"
+
+#: main/media.php:387
+#, fuzzy
+msgid "Failed to regenerate image sub-sizes"
+msgstr "Error al regenerar subtamaños de imagen"
+
+#: main/media.php:363
+#, fuzzy
+msgid "Failed to save the image"
+msgstr "Error al guardar la imagen"
+
+#: main/media.php:297
+#, fuzzy
+msgid "File already exists. Please choose another file name"
+msgstr "El archivo ya existe. Por favor, elija otro nombre de archivo"
+
+#: main/onboarding.php:223
+msgid "File Manager"
+msgstr "Administrador de archivos"
+
+#: main/onboarding.php:233
+#, fuzzy
+msgid ""
+"FileOrganizer is a lightweight and easy-to-use file management plugin for "
+"WordPress. Organize and manage your WordPress files with FileOrganizer "
+"without any control panel or FTP access. "
+msgstr ""
+"FileOrganizer es un plugin de gestión de archivos para WordPress ligero y "
+"fácil de usar. Organiza y gestiona tus archivos de WordPress con "
+"FileOrganizer sin ningún panel de control o acceso FTP."
+
+#: main/onboarding.php:228
+#, fuzzy
+msgid "FileOrganizer – Manage WordPress and Website Files"
+msgstr "FileOrganizer - Gestión de archivos de WordPress y sitios web"
+
+#: main/intros.php:190
+#, fuzzy
+msgid "Filter Installed Plugins"
+msgstr "Filtrar plugins instalados"
+
+#: main/intros.php:450
+#, fuzzy
+msgid "Filter Pages"
+msgstr "Filtrar páginas"
+
+#: main/intros.php:444
+#, fuzzy
+msgid "Filter Pages by Date"
+msgstr "Filtrar páginas por fecha"
+
+#: main/intros.php:395
+msgid "Filter Posts"
+msgstr "Filtrar Entradas"
+
+#: main/intros.php:389
+#, fuzzy
+msgid "Filter Posts by Category"
+msgstr "Filtrar entradas por categoría"
+
+#: main/intros.php:383
+#, fuzzy
+msgid "Filter Posts by Date"
+msgstr "Filtrar mensajes por fecha"
+
+#: main/intros.php:334
+msgid "Filter Users"
+msgstr "Filtrar Usuarios"
+
+#: main/intros.php:191
+#, fuzzy
+msgid ""
+"Filter your installed plugins list with Active, Inactive, Auto Updates "
+"Enabled or Disabled options"
+msgstr ""
+"Filtre la lista de plugins instalados con las opciones Activo, Inactivo, "
+"Actualizaciones automáticas activadas o desactivadas"
+
+#: main/intros.php:451
+msgid ""
+"Filter your pages list by their status like published, drafts, trash, etc."
+msgstr ""
+"Filtre su lista de páginas por su estado como publicadas, borradores, "
+"papelera, etc."
+
+#: main/intros.php:396
+msgid ""
+"Filter your posts list by their status like published, drafts, trash, etc."
+msgstr ""
+"Filtre su lista de mensajes por su estado, como publicados, borradores, "
+"papelera, etc."
+
+#: main/intros.php:335
+msgid "Filter your users list with their roles"
+msgstr "Filtre su lista de usuarios con sus roles"
+
+#: main/manage-plugins.php:93
+msgid "Free"
+msgstr "Gratis"
+
+#: main/setup.php:93
+msgid "Get Started"
+msgstr "Comenzar"
+
+#: main/onboarding.php:1001
+msgid "Go Back"
+msgstr "Regresar"
+
+#: main/setup.php:11
+msgid "Goals"
+msgstr "Objetivos"
+
+#: main/onboarding.php:214
+#, fuzzy
+msgid ""
+"GoSMTP allows you to send emails from your WordPress over SMTP or many "
+"popular outgoing email service providers. Using these improves your email "
+"deliverability."
+msgstr ""
+"GoSMTP le permite enviar correos electrónicos desde su WordPress a través de "
+"SMTP o muchos proveedores de servicios de correo electrónico saliente "
+"populares. Su uso mejora la entregabilidad de su correo electrónico."
+
+#: main/onboarding.php:209
+#, fuzzy
+msgid "GoSMTP – SMTP for WordPress"
+msgstr "GoSMTP - SMTP para WordPress"
+
+#: main/intros.php:329
+#, fuzzy
+msgid "Here you can bulk change role for the selected users"
+msgstr ""
+"Aquí puede cambiar de forma masiva el rol de los usuarios seleccionados"
+
+#: main/intros.php:141
+msgid ""
+"Here you can edit your profile information like name, email, password, bio, "
+"profile picture and more."
+msgstr ""
+"Aquí puede editar la información de su perfil, como nombre, correo "
+"electrónico, contraseña, biografía, foto de perfil y mucho más."
+
+#: main/intros.php:445
+#, fuzzy
+msgid "Here you can filter the pages by date."
+msgstr "Aquí puede filtrar las páginas por fecha."
+
+#: main/intros.php:390
+#, fuzzy
+msgid "Here you can filter the posts by category."
+msgstr "Aquí puede filtrar los mensajes por categoría."
+
+#: main/intros.php:384
+msgid "Here you can filter the posts by date."
+msgstr "Aquí puede filtrar los mensajes por fecha."
+
+#: main/intros.php:253
+#, fuzzy
+msgid ""
+"Here you can get insights on the overall performance and security of your "
+"website. <br /><br />It offers recommendations and troubleshooting tools to "
+"help you maintain an efficient and secure site."
+msgstr ""
+"Aquí puede obtener información sobre el rendimiento general y la seguridad "
+"de su sitio web. <br /><br />Ofrece recomendaciones y herramientas de "
+"solución de problemas para ayudarle a mantener un sitio eficiente y seguro."
+
+#: main/intros.php:99
+msgid ""
+"Here you can moderate comments posted by visitors on your posts. <br /><br /"
+">You can one click disable comments  for your entire site from the Assistant "
+"dashboard."
+msgstr ""
+"Aquí puede moderar los comentarios publicados por los visitantes en sus "
+"entradas. <br /><br />Puede desactivar los comentarios de todo su sitio con "
+"un solo clic desde el panel del Asistente."
+
+#: main/intros.php:167
+msgid ""
+"Here you can search wordpress.org plugins library or upload a custom plugin "
+"file to install a new plugin on your site."
+msgstr ""
+"Aquí puede buscar en la biblioteca de plugins de wordpress.org o subir un "
+"archivo de plugin personalizado para instalar un nuevo plugin en tu sitio."
+
+#: main/intros.php:213
+msgid ""
+"Here you can search wordpress.org themes library or upload a custom theme "
+"file to install a new theme on your site."
+msgstr ""
+"Aquí puede buscar en la biblioteca de temas de wordpress.org o subir un "
+"archivo de tema personalizado para instalar un nuevo tema en tu sitio."
+
+#: main/intros.php:33
+#, fuzzy
+msgid ""
+"Here you will find important links compiled in a single section which can "
+"sometimes be difficult to find in WordPress."
+msgstr ""
+"Aquí encontrará enlaces importantes recopilados en una única sección que a "
+"veces puede ser difícil de encontrar en WordPress."
+
+#: main/intros.php:265
+#, fuzzy
+msgid ""
+"Here you will get a quick summary of recent activity like published posts "
+"and comments received on your site."
+msgstr ""
+"Aquí obtendrá un resumen rápido de la actividad reciente, como las entradas "
+"publicadas y los comentarios recibidos en su sitio."
+
+#: main/intros.php:259
+#, fuzzy
+msgid ""
+"Here you will get the number of posts, pages, comments, current version of "
+"WordPress and theme that you are running."
+msgstr ""
+"Aquí obtendrá el número de entradas, páginas, comentarios, la versión actual "
+"de WordPress y el tema que está ejecutando."
+
+#: main/setup.php:105
+#, fuzzy
+msgid "How would you categorize your website ?"
+msgstr "¿Cómo clasificaría su sitio web?"
+
+#. URI of the plugin
+#, fuzzy
+msgid "https://softwp.net/"
+msgstr "https://softwp.net/"
+
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://www.softaculous.com"
+msgstr "https://www.softaculous.com"
+
+#: main/media.php:525 main/media.php:532
+#, fuzzy
+msgid "ID not found ."
+msgstr "ID no encontrado ."
+
+#: main/media.php:497
+#, fuzzy
+msgid "Image has been successfully compressed and replaced."
+msgstr "La imagen se ha comprimido y sustituido correctamente."
+
+#: main/media.php:395
+#, fuzzy
+msgid "Image saved successfully"
+msgstr "Imagen guardada correctamente"
+
+#: main/onboarding.php:990
+#, fuzzy
+msgid "Import stock images ?"
+msgstr "¿Importar imágenes de archivo?"
+
+#: main/onboarding.php:1002
+#, fuzzy
+msgid "Import Theme Content"
+msgstr "Importar contenido del tema"
+
+#: main/onboarding.php:1016
+#, fuzzy
+msgid "Import Theme Contents"
+msgstr "Importar contenido del tema"
+
+#: main/intros.php:123
+#, fuzzy
+msgid ""
+"Import/Export site data, check site health or edit plugin/theme files from "
+"the Tools menu."
+msgstr ""
+"Importe/exporte datos del sitio, compruebe el estado del sitio o edite "
+"archivos de plugins/temas desde el menú Herramientas."
+
+#: main/onboarding.php:115
+#, fuzzy
+msgid "Improve Page Speed"
+msgstr "Mejorar la velocidad de la página"
+
+#: main/onboarding.php:116
+#, fuzzy
+msgid "Improve speed by cache, minify, compress"
+msgstr "Mejorar la velocidad mediante caché, minificación y compresión"
+
+#: main/onboarding.php:96
+#, fuzzy
+msgid "Improve your site's ranking on search engines"
+msgstr "Mejore la posición de su sitio en los motores de búsqueda"
+
+#: main/onboarding.php:95
+#, fuzzy
+msgid "Increase Website Traffic (SEO)"
+msgstr "Aumentar el tráfico del sitio web (SEO)"
+
+#: main/intros.php:258
+#, fuzzy
+msgid "Info at a Glance"
+msgstr "Información general"
+
+#: main/admin.php:118
+msgid "Install"
+msgstr "Instalar"
+
+#: main/manage-plugins.php:114
+#, fuzzy
+msgid "Install for Free"
+msgstr "Instalar gratis"
+
+#: main/manage-plugins.php:87 main/manage-plugins.php:103
+msgid "Installed"
+msgstr "Instalado"
+
+#: main/intros.php:172
+#, fuzzy
+msgid "Installed Plugins List"
+msgstr "Lista de plugins instalados"
+
+#: main/intros.php:218
+#, fuzzy
+msgid "Installed Themes List"
+msgstr "Lista de temas instalados"
+
+#: main/media.php:434 main/media.php:502
+#, fuzzy
+msgid "Invalid image path."
+msgstr "Ruta de imagen no válida."
+
+#: main/setup.php:88
+#, fuzzy
+msgid ""
+"It looks like you have already completed the onboarding process. You might "
+"lose data if you run the onboarding process again. Select this checkbox to "
+"confirm that you agree."
+msgstr ""
+"Parece que ya ha completado el proceso de incorporación. Podría perder datos "
+"si ejecuta de nuevo el proceso de incorporación. Seleccione esta casilla "
+"para confirmar que está de acuerdo."
+
+#: main/admin.php:193
+#, fuzzy
+msgid "Launch Onboarding"
+msgstr "Lanzamiento Onboarding"
+
+#: main/license.php:133
+#, fuzzy
+msgid "License Expires : "
+msgstr "La licencia caduca :"
+
+#: main/license.php:132
+#, fuzzy
+msgid "License Status : "
+msgstr "Estado de la licencia :"
+
+#: main/onboarding.php:166
+msgid "Limit Login Attempts"
+msgstr "Límitar intentos de inicio de sesión"
+
+#: main/intros.php:148
+msgid "Log Out"
+msgstr "Cerrar sesión"
+
+#: main/onboarding.php:171
+#, fuzzy
+msgid "Loginizer"
+msgstr "Loginizer"
+
+#: main/onboarding.php:176
+#, fuzzy
+msgid ""
+"Loginizer is a simple and effortless solution that takes care of all your "
+"security problems. It comes with default optimal configuration to protect "
+"your site from Brute Force attacks."
+msgstr ""
+"Loginizer es una solución simple y sin esfuerzo que se encarga de todos sus "
+"problemas de seguridad. Viene con configuración óptima por defecto para "
+"proteger su sitio de ataques de fuerza bruta."
+
+#: main/onboarding.php:224
+#, fuzzy
+msgid "Manage files with drag & drop editor"
+msgstr "Gestiona archivos con el editor de arrastrar y soltar"
+
+#: main/admin.php:169
+msgid "Manage Media"
+msgstr "Gestionar medios"
+
+#: main/intros.php:87
+#, fuzzy
+msgid ""
+"Manage media files like images, audio, videos, etc. here. <br /><br />Media "
+"uploaded from anywhere on your site can be managed here."
+msgstr ""
+"Gestione aquí archivos multimedia como imágenes, audio, vídeos, etc. <br /"
+"><br />Los archivos multimedia subidos desde cualquier parte de su sitio se "
+"pueden gestionar aquí."
+
+#: main/intros.php:429
+#, fuzzy
+msgid "Manage Page"
+msgstr "Gestionar página"
+
+#: main/admin.php:157
+msgid "Manage Pages"
+msgstr "Administrar páginas"
+
+#: main/admin.php:175 main/manage-plugins.php:51
+msgid "Manage Plugins"
+msgstr "Administrar plugins"
+
+#: main/intros.php:368
+#, fuzzy
+msgid "Manage Post"
+msgstr "Gestionar el puesto"
+
+#: main/admin.php:163
+msgid "Manage Posts"
+msgstr "Administrar publicaciones"
+
+#: main/admin.php:143
+#, fuzzy
+msgid "Manage Pro License"
+msgstr "Gestionar licencia Pro"
+
+#: main/admin.php:143
+#, fuzzy
+msgid "Manage SoftWP License"
+msgstr "Gestionar licencia SoftWP"
+
+#: main/admin.php:181
+msgid "Manage Themes"
+msgstr "Administrar Temas"
+
+#: main/admin.php:187
+msgid "Manage Users"
+msgstr "Administrar Usuarios"
+
+#: main/intros.php:81
+#, fuzzy
+msgid ""
+"Manage your blog posts here. <br /><br />Posts are typically utilized for "
+"blog posts, news updates, or articles, organized in a chronological order."
+msgstr ""
+"Gestiona aquí las entradas de tu blog. <br /><br />Las entradas se utilizan "
+"normalmente para entradas de blog, actualizaciones de noticias o artículos, "
+"organizados en orden cronológico."
+
+#: main/intros.php:86
+msgid "Media Library"
+msgstr "Librería Multimedia"
+
+#: main/admin.php:235
+msgid "Never"
+msgstr "Nunca"
+
+#: main/functions.php:443
+msgid "New Page"
+msgstr "Nueva página"
+
+#: main/functions.php:444
+msgid "New Post"
+msgstr "Nuevo Post"
+
+#: main/media.php:544
+msgid "No file was uploaded ! Please try again."
+msgstr "No se ha cargado ningún archivo. Por favor, inténtelo de nuevo."
+
+#: main/media.php:656
+#, fuzzy
+msgid "No folder for the target found !"
+msgstr "No se ha encontrado la carpeta del objetivo"
+
+#: main/media.php:437 main/media.php:505
+#, fuzzy
+msgid "No image ID provided."
+msgstr "No se proporciona identificación de la imagen."
+
+#: main/setup.php:119
+#, fuzzy
+msgid "No results match your search criteria"
+msgstr "Ningún resultado coincide con sus criterios de búsqueda"
+
+#: main/setup.php:97
+#, fuzzy
+msgid "No, I don't want to try an easy setup process"
+msgstr "No, no quiero intentar un proceso de configuración fácil"
+
+#: main/manage-plugins.php:84 main/manage-plugins.php:100
+msgid "Not Installed"
+msgstr "No instalado"
+
+#: main/media.php:274
+#, fuzzy
+msgid "Original image attachment not found"
+msgstr "No se ha encontrado la imagen original adjunta"
+
+#: main/media.php:280
+#, fuzzy
+msgid "Original image path not found"
+msgstr "No se ha encontrado la ruta de la imagen original"
+
+#: main/onboarding.php:185
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: main/onboarding.php:186
+#, fuzzy
+msgid "Page Builder, Drag and Drop website builder"
+msgstr "Page Builder, constructor de sitios web de arrastrar y soltar"
+
+#: main/onboarding.php:190
+#, fuzzy
+msgid "Pagelayer"
+msgstr "Pagelayer"
+
+#: main/onboarding.php:195
+#, fuzzy
+msgid ""
+"Pagelayer is an awesome page builder that allows you to create and design "
+"your website instantly in the simplest way possible. Take control over your "
+"page content with the most advanced page builder plugin available."
+msgstr ""
+"Pagelayer es un impresionante constructor de páginas que le permite crear y "
+"diseñar su sitio web al instante de la forma más sencilla posible. Toma el "
+"control sobre el contenido de tu página con el plugin constructor de páginas "
+"más avanzado disponible."
+
+#: main/onboarding.php:527
+msgid "Pagelayer is required to use the templates !"
+msgstr "¡Pagelayer es necesario para utilizar las plantillas!"
+
+#: main/intros.php:92 main/intros.php:411
+msgid "Pages"
+msgstr "Páginas"
+
+#: main/intros.php:93
+#, fuzzy
+msgid ""
+"Pages are static content sections such as Home, About Us, Contact, Services, "
+"etc. <br /><br />Use this menu to add, edit, delete your pages."
+msgstr ""
+"Las páginas son secciones de contenido estático como Inicio, Quiénes somos, "
+"Contacto, Servicios, etc. <br /><br />Utilice este menú para añadir, editar "
+"o eliminar páginas."
+
+#: main/intros.php:423
+#, fuzzy
+msgid "Pages List"
+msgstr "Lista de páginas"
+
+#: main/admin.php:70
+#, fuzzy
+msgid "Pages Management"
+msgstr "Gestión de páginas"
+
+#: main/license.php:147
+msgid "Path"
+msgstr "Ruta"
+
+#: main/admin.php:153
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: main/intros.php:105
+#, fuzzy
+msgid ""
+"Personalize your site's appearance effortlessly. <br /><br />Explore themes, "
+"customize headers, background, colors, manage widgets and menus to customize "
+"your site's look and feel."
+msgstr ""
+"Personaliza la apariencia de tu sitio sin esfuerzo. <br /><br />Explore "
+"temas, personalice encabezados, fondos, colores, administre widgets y menús "
+"para personalizar el aspecto de su sitio."
+
+#: main/functions.php:811
+#, fuzzy
+msgid "Please fix the below error(s):"
+msgstr "Por favor, corrija los siguientes errores:"
+
+#: main/ai.php:76
+#, fuzzy
+msgid "Please link a license to keep using the AI feature"
+msgstr "Vincula una licencia para seguir utilizando la función AI"
+
+#: main/ai.php:81
+#, fuzzy
+msgid "Please write a Prompt, for the AI to generate content"
+msgstr "Por favor, escriba una Prompt, para que la IA genere contenidos"
+
+#: main/intros.php:178
+#, fuzzy
+msgid "Plugin Actions"
+msgstr "Acciones del plugin"
+
+#: main/onboarding.php:743
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: main/onboarding.php:787
+msgid "Plugin already installed."
+msgstr "Plugin ya instalado."
+
+#: main/onboarding.php:748
+#, fuzzy, php-format
+msgid ""
+"Plugin installation failed. %1$s requires PHP version %2$s or higher. Your "
+"PHP version is %3$s."
+msgstr ""
+"Fallo en la instalación del plugin. %1$s requiere la versión de PHP %2$s o "
+"superior. Su versión de PHP es %3$s."
+
+#: main/onboarding.php:784
+msgid "Plugin installed and activated successfully."
+msgstr "El plugin se ha instalado y activado correctamente."
+
+#: main/intros.php:110 main/intros.php:160
+msgid "Plugins"
+msgstr "Plugins"
+
+#: main/admin.php:64
+#, fuzzy
+msgid "Plugins Management"
+msgstr "Gestión de plugins"
+
+#: main/onboarding.php:537
+#, fuzzy
+msgid "PopularFX plugin is required to use the templates !"
+msgstr "El plugin PopularFX es necesario para utilizar las plantillas"
+
+#: main/onboarding.php:547
+#, fuzzy
+msgid "PopularFX theme is required to use the templates !"
+msgstr "El tema PopularFX es necesario para utilizar las plantillas"
+
+#: main/intros.php:80 main/intros.php:350
+msgid "Posts"
+msgstr "Entradas"
+
+#: main/intros.php:362
+msgid "Posts List"
+msgstr "Lista entradas"
+
+#: main/admin.php:73
+#, fuzzy
+msgid "Posts Management"
+msgstr "Gestión de puestos"
+
+#: main/intros.php:66
+msgid "Preview Site"
+msgstr "Vista previa Web"
+
+#: main/setup.php:126 main/setup.php:143 main/setup.php:184
+msgid "Previous Step"
+msgstr "Paso anterior"
+
+#: main/manage-plugins.php:109
+msgid "Pro"
+msgstr "Pro"
+
+#: main/manage-plugins.php:125
+#, fuzzy
+msgid "Pro included with your subscription"
+msgstr "Pro incluido con su suscripción"
+
+#: main/onboarding.php:205
+#, fuzzy
+msgid "Providers: Gmail, Outlook, AWS SES & more"
+msgstr "Proveedores: Gmail, Outlook, AWS SES y más"
+
+#: main/media.php:240
+msgid "Quality"
+msgstr "Calidad"
+
+#: main/intros.php:271
+msgid "Quick Draft"
+msgstr "Borrador rápido"
+
+#: main/admin.php:135 main/admin.php:343 main/admin.php:349 main/intros.php:32
+msgid "Quick Links"
+msgstr "Enlaces Rápidos"
+
+#: main/admin.php:83 main/intros.php:26
+#, fuzzy
+msgid "Recommended Features"
+msgstr "Características recomendadas"
+
+#: main/media.php:125
+msgid "Replace Media"
+msgstr "Cambiar Media"
+
+#: main/media.php:616
+#, fuzzy
+msgid "Replace Media File"
+msgstr "Sustituir archivo multimedia"
+
+#: main/manage-plugins.php:65 main/setup.php:172
+#, fuzzy, php-format
+msgid "Requires PHP version %1$s or higher"
+msgstr "Requiere PHP versión %1$s o superior"
+
+#: main/media.php:243
+msgid "Save"
+msgstr "Guardar"
+
+#: main/media.php:244
+msgid "Save & Close"
+msgstr "Guardar & Cerrar"
+
+#: main/media.php:245
+msgid "Save As"
+msgstr "Guardar como"
+
+#: main/onboarding.php:134
+#, fuzzy
+msgid "Schedule Backups"
+msgstr "Programar copias de seguridad"
+
+#: main/intros.php:285
+msgid "Screen Options"
+msgstr "Opciones de pantalla"
+
+#: main/intros.php:457
+#, fuzzy
+msgid "Search a page from the pages list."
+msgstr "Buscar una página en la lista de páginas."
+
+#: main/intros.php:197
+#, fuzzy
+msgid "Search a plugin from the installed plugins list."
+msgstr "Buscar un plugin en la lista de plugins instalados."
+
+#: main/intros.php:402
+#, fuzzy
+msgid "Search a post from the posts list."
+msgstr "Buscar un mensaje en la lista de mensajes."
+
+#: main/intros.php:237
+#, fuzzy
+msgid "Search a theme from the installed themes list."
+msgstr "Busca un tema en la lista de temas instalados."
+
+#: main/intros.php:341
+#, fuzzy
+msgid "Search a user from the users list."
+msgstr "Buscar un usuario en la lista de usuarios."
+
+#: main/setup.php:109
+msgid "Search for a category"
+msgstr "Buscar una categoría"
+
+#: main/onboarding.php:956
+#, fuzzy
+msgid "Search for theme"
+msgstr "Buscar tema"
+
+#: main/intros.php:196
+msgid "Search Installed Plugins"
+msgstr "Buscar plugins instalados"
+
+#: main/intros.php:236
+msgid "Search Installed Themes"
+msgstr "Buscar temas instalados"
+
+#: main/intros.php:456
+msgid "Search Pages"
+msgstr "Páginas de búsqueda"
+
+#: main/intros.php:401
+msgid "Search Posts"
+msgstr "Buscar publicaciones"
+
+#: main/intros.php:340
+msgid "Search Users"
+msgstr "Buscar usuarios"
+
+#: main/media.php:260 main/media.php:421 main/media.php:481
+msgid "Security Check Failed!"
+msgstr "Error de comprobación de seguridad."
+
+#: main/onboarding.php:984
+#, fuzzy
+msgid "Select pages to import"
+msgstr "Seleccionar páginas para importar"
+
+#: main/onboarding.php:154
+#, fuzzy
+msgid "Sell physical or digital products"
+msgstr "Vender productos físicos o digitales"
+
+#: main/onboarding.php:153
+msgid "Sell Products"
+msgstr "Vender Productos"
+
+#: main/onboarding.php:204
+#, fuzzy
+msgid "Send Email with SMTP"
+msgstr "Enviar correo electrónico con SMTP"
+
+#: main/license.php:151
+#, fuzzy
+msgid "Server's IP Address"
+msgstr "Dirección IP del servidor"
+
+#: main/admin.php:201 main/intros.php:38 main/intros.php:128
+msgid "Settings"
+msgstr "Ajustes"
+
+#: main/admin.php:85
+msgid "Show More"
+msgstr "Mostrar más"
+
+#: main/intros.php:252
+msgid "Site Health"
+msgstr "Salud del Sitio"
+
+#: main/setup.php:10
+msgid "Site Title"
+msgstr "Título del sitio"
+
+#: main/onboarding.php:100
+#, fuzzy
+msgid "SiteSEO – One Click SEO for WordPress"
+msgstr "SiteSEO - SEO en un clic para WordPress"
+
+#. Author of the plugin
+#, fuzzy
+msgid "Softaculous"
+msgstr "Softaculous"
+
+#. Name of the plugin
+#, fuzzy
+msgid "SoftWP"
+msgstr "SoftWP"
+
+#: main/license.php:121
+#, fuzzy
+msgid "SoftWP License"
+msgstr "Licencia SoftWP"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"SoftWP plugin helps users get familiar with WordPress and build a functional "
+"website with a seamless onboarding process and Softaculous AI to help build "
+"content. Softaculous also offers an assistant which provides tour of "
+"essential aspects of WordPress for the user to understand the functionality."
+msgstr ""
+"El plugin SoftWP ayuda a los usuarios a familiarizarse con WordPress y a "
+"crear un sitio web funcional con un proceso de incorporación fluido y "
+"Softaculous AI para ayudar a crear contenido. Softaculous también ofrece un "
+"asistente que recorre los aspectos esenciales de WordPress para que el "
+"usuario comprenda su funcionalidad."
+
+#: main/license.php:115
+#, fuzzy
+msgid "SoftWP version"
+msgstr "Versión de SoftWP"
+
+#: main/functions.php:254
+msgid "Sorry, but you do not have permissions to change settings."
+msgstr "Lo sentimos, pero no tiene permisos para cambiar la configuración."
+
+#: main/admin.php:12
+#, fuzzy
+msgid "Sorry, but you do not have permissions to save settings."
+msgstr "Lo sentimos, pero no tiene permisos para guardar la configuración."
+
+#: main/onboarding.php:125
+#, fuzzy
+msgid ""
+"SpeedyCache is an easy to use and powerful WordPress Cache Plugin, it helps "
+"you reduce page load time improving User Experience and boosting your Google "
+"PageSpeed."
+msgstr ""
+"SpeedyCache es un fácil de usar y potente plugin de caché de WordPress, que "
+"le ayuda a reducir el tiempo de carga de la página mejorando la experiencia "
+"del usuario y aumentar su Google PageSpeed."
+
+#: main/onboarding.php:120
+#, fuzzy
+msgid "SpeedyCache – Cache, Optimization, Performance"
+msgstr "SpeedyCache - Caché, optimización, rendimiento"
+
+#: main/intros.php:418
+#, fuzzy
+msgid "Start creating a new page for your site."
+msgstr "Empiece a crear una nueva página para su sitio."
+
+#: main/functions.php:442
+msgid "Start Exploring"
+msgstr "Comienza a explorar"
+
+#: main/intros.php:357
+#, fuzzy
+msgid "Start writing a new blog post for your site."
+msgstr "Comience a escribir una nueva entrada de blog para su sitio."
+
+#: main/ai.php:115
+#, fuzzy
+msgid "The AI API responsed with empty response, Response Code:"
+msgstr "La API AI respondió con una respuesta vacía, Código de respuesta:"
+
+#: main/intros.php:247
+#, fuzzy
+msgid ""
+"The Dashboard is your website's command center, providing a concise summary "
+"of its activity, such as site health, recent updates, comments, and "
+"statistics. <br /><br />Several plugins also display quick summary like "
+"orders, products, etc within the dashboard."
+msgstr ""
+"El panel de control es el centro de mando de su sitio web y ofrece un "
+"resumen conciso de su actividad, como el estado del sitio, las "
+"actualizaciones recientes, los comentarios y las estadísticas. <br /><br /"
+">Varios plugins también muestran resúmenes rápidos como pedidos, productos, "
+"etc. dentro del panel de control."
+
+#: main/intros.php:75
+#, fuzzy
+msgid ""
+"The Dashboard is your website's command center, providing a concise summary "
+"of its activity, such as site health, recent updates, comments, and "
+"statistics. <br /><br />Several plugins also display quick summary like "
+"orders, products, etc within the dashboard. <br /><br />You can also check "
+"for Updates from the sub-menu."
+msgstr ""
+"El panel de control es el centro de mando de su sitio web y ofrece un "
+"resumen conciso de su actividad, como el estado del sitio, las "
+"actualizaciones recientes, los comentarios y las estadísticas. <br /><br /"
+">Varios plugins también muestran resúmenes rápidos como pedidos, productos, "
+"etc. dentro del panel de control. <br /><br />También puede comprobar las "
+"actualizaciones desde el submenú."
+
+#: main/media.php:558
+#, fuzzy
+msgid ""
+"The File type could not be determined. Please upload a permitted file type."
+msgstr ""
+"No se ha podido determinar el tipo de archivo. Por favor, cargue un tipo de "
+"archivo permitido."
+
+#: main/onboarding.php:856
+#, fuzzy
+msgid "The filesystem could not write files to the server!"
+msgstr "El sistema de archivos no ha podido escribir archivos en el servidor"
+
+#: main/license.php:88
+#, fuzzy
+msgid "The license has been saved successfully"
+msgstr "La licencia se ha guardado correctamente"
+
+#: main/license.php:60 main/onboarding.php:503
+#, fuzzy
+msgid "The license key is invalid"
+msgstr "La clave de licencia no es válida"
+
+#: main/license.php:43
+#, fuzzy
+msgid "The license key was not submitted"
+msgstr "No se ha enviado la clave de licencia"
+
+#: main/onboarding.php:495
+#, fuzzy
+msgid ""
+"The response from the server was malformed. Please try again in sometime !"
+msgstr ""
+"La respuesta del servidor estaba malformada. Vuelva a intentarlo dentro de "
+"un rato"
+
+#: main/onboarding.php:580
+#, fuzzy, php-format
+msgid ""
+"The selected template is a Pro template and you have a free or expired "
+"license. Please enter your license key <a href=\"%1$s\" target=\"_blank\" "
+"style=\"color:blue;\">here</a>."
+msgstr ""
+"La plantilla seleccionada es una plantilla Pro y usted tiene una licencia "
+"gratuita o caducada. Introduzca <a href=\"%1$s\" target=\"_blank\" "
+"style=\"color:blue;\">aquí</a> su clave de licencia."
+
+#: main/onboarding.php:554
+#, fuzzy
+msgid "The template you submitted is invalid !"
+msgstr "La plantilla que ha enviado no es válida"
+
+#: main/media.php:666
+#, fuzzy, php-format
+msgid ""
+"The uploaded file could not be moved to %1$s. This is most likely an issue "
+"with permissions, or upload failed."
+msgstr ""
+"El archivo subido no pudo ser movido a %1$s. Lo más probable es que se trate "
+"de un problema con los permisos o que la carga haya fallado."
+
+#: main/intros.php:230
+#, fuzzy
+msgid "Theme Actions"
+msgstr "Acciones temáticas"
+
+#: main/onboarding.php:840
+msgid "Theme activated successfully."
+msgstr "Tema activado correctamente."
+
+#: main/onboarding.php:887
+#, fuzzy
+msgid "Theme installation failed "
+msgstr "Error en la instalación del tema"
+
+#: main/onboarding.php:891
+#, fuzzy
+msgid "Theme installed and activated successfully."
+msgstr "Tema instalado y activado correctamente."
+
+#: main/onboarding.php:326
+#, fuzzy
+msgid "Theme template can only be uploaded using FTP !"
+msgstr "La plantilla del tema sólo se puede cargar mediante FTP"
+
+#: main/intros.php:206
+msgid "Themes"
+msgstr "Temas"
+
+#: main/admin.php:67
+#, fuzzy
+msgid "Themes Management"
+msgstr "Gestión de temas"
+
+#: main/onboarding.php:598
+#, fuzzy, php-format
+msgid ""
+"There was an error in installing Pagelayer which is required by this "
+"template. Please install Pagelayer manually by clicking <a href=\"%1$s\" "
+"target=\"_blank\">here</a> and then install the template !"
+msgstr ""
+"Se ha producido un error al instalar Pagelayer, que es necesario para esta "
+"plantilla. ¡Por favor, instale Pagelayer manualmente haciendo clic <a "
+"href=\"%1$s\" target=\"_blank\">aquí</a> y luego instalar la plantilla !"
+
+#: main/media.php:550
+#, fuzzy
+msgid "There was some error uploading the file ! Please try again."
+msgstr ""
+"Se ha producido un error al cargar el archivo Por favor, inténtalo de nuevo."
+
+#: main/setup.php:106
+#, fuzzy
+msgid "This helps us recommend design and functionalities for your website"
+msgstr ""
+"Esto nos ayuda a recomendar el diseño y las funcionalidades de su sitio web"
+
+#: main/setup.php:83
+#, fuzzy
+msgid ""
+"This process will help you choose a professional template for your website "
+"and install plugins that you might need to achieve your goal for creating "
+"this website"
+msgstr ""
+"Este proceso le ayudará a elegir una plantilla profesional para su sitio web "
+"y a instalar los plugins que pueda necesitar para lograr su objetivo de "
+"crear este sitio web"
+
+#: main/intros.php:286
+#, fuzzy
+msgid ""
+"This useful feature allows you to select the screen elements that you would "
+"like to show or hide by using the checkboxes. <br /><br />You will find this "
+"option on several pages across your site."
+msgstr ""
+"Esta útil función le permite seleccionar los elementos de la pantalla que "
+"desea mostrar u ocultar utilizando las casillas de verificación. <br /><br /"
+">Encontrará esta opción en varias páginas de su sitio."
+
+#: main/intros.php:279
+#, fuzzy
+msgid ""
+"This widget is a valuable resource for staying informed about the latest "
+"happenings in the WordPress community and connecting with other WordPress "
+"enthusiasts. <br /><br />Here you will find updates on new releases, "
+"upcoming features, security updates, and general news about the WordPress "
+"community. <br /><br />This section also shows upcoming WordPress events "
+"such as WordCamps, local meetups, and other community gatherings."
+msgstr ""
+"Este widget es un valioso recurso para mantenerse informado sobre los "
+"últimos acontecimientos en la comunidad de WordPress y conectar con otros "
+"entusiastas de WordPress. <br /><br />Aquí encontrarás actualizaciones sobre "
+"nuevas versiones, próximas funciones, actualizaciones de seguridad y "
+"noticias generales sobre la comunidad de WordPress. <br /><br />Esta sección "
+"también muestra los próximos eventos de WordPress, como WordCamps, reuniones "
+"locales y otros encuentros de la comunidad."
+
+#: main/intros.php:134
+msgid "Toggle Menu"
+msgstr "Mostrar/Ocultar menú"
+
+#: main/intros.php:122
+msgid "Tools"
+msgstr "Herramientas"
+
+#: main/functions.php:836
+msgid "Tour"
+msgstr "Tour"
+
+#: main/admin.php:49 main/admin.php:341 main/admin.php:347 main/intros.php:20
+msgid "Tours"
+msgstr "Tours"
+
+#: main/intros.php:21
+#, fuzzy
+msgid ""
+"Tours highlights and explains important options in WordPress that you will "
+"need while managing your site. <br /><br />You can replay the tours when "
+"needed."
+msgstr ""
+"Los tours destacan y explican las opciones importantes de WordPress que "
+"necesitará para gestionar su sitio. <br /><br />Puedes volver a ver los "
+"tours cuando lo necesites."
+
+#: main/ai.php:103
+#, fuzzy
+msgid "Unable to complete this request"
+msgstr "No se puede completar esta solicitud"
+
+#: main/ai.php:121
+#, fuzzy
+msgid "Unexpected response code returned from AI API: "
+msgstr "Código de respuesta inesperado devuelto por la API de AI:"
+
+#: main/intros.php:111
+#, fuzzy
+msgid ""
+"Unlock endless possibilities for your website with plugins. <br /><br /"
+">Easily search, add or delete plugins to enhance your site's functionality."
+msgstr ""
+"Desbloquee un sinfín de posibilidades para su sitio web con plugins. <br /"
+"><br />Busque, añada o elimine plugins fácilmente para mejorar la "
+"funcionalidad de su sitio."
+
+#: main/media.php:355
+#, fuzzy
+msgid "Unsupported image format"
+msgstr "Formato de imagen no compatible"
+
+#: main/media.php:472
+#, fuzzy
+msgid "Unsupported image type."
+msgstr "Tipo de imagen no compatible."
+
+#: main/license.php:125
+msgid "Update License"
+msgstr "Actualizar Licencia"
+
+#: main/media.php:628
+msgid "Upload"
+msgstr "Subir"
+
+#: main/license.php:143
+msgid "URL"
+msgstr "URL"
+
+#: main/functions.php:441
+#, fuzzy
+msgid ""
+"Use cutting-edge AI to write blog posts or content for your pages. Create a "
+"table, write a paragraph, change tone, translate, fix spelling & grammar and "
+"so much more."
+msgstr ""
+"Utiliza la IA más avanzada para escribir entradas de blog o contenidos para "
+"tus páginas. Crea una tabla, escribe un párrafo, cambia el tono, traduce, "
+"corrige la ortografía y la gramática y mucho más."
+
+#: main/intros.php:149
+#, fuzzy
+msgid "Use this link to securely log out from your site."
+msgstr "Utilice este enlace para cerrar la sesión en su sitio de forma segura."
+
+#: main/intros.php:272
+#, fuzzy
+msgid ""
+"Use this section for capturing ideas as they come to you, quickly jot down "
+"the ideas for new posts. <br /><br />You can later access these drafts from "
+"the Posts section and continue editing them in the full post editor."
+msgstr ""
+"Utiliza esta sección para capturar las ideas que te vayan surgiendo, anota "
+"rápidamente las ideas para nuevos posts. <br /><br />Más tarde podrás "
+"acceder a estos borradores desde la sección Entradas y seguir editándolos en "
+"el editor de entradas completo."
+
+#: main/intros.php:116 main/intros.php:295
+msgid "Users"
+msgstr "Usuarios"
+
+#: main/intros.php:307
+msgid "Users List"
+msgstr "Lista de Usuarios"
+
+#: main/admin.php:76
+#, fuzzy
+msgid "Users Management"
+msgstr "Gestión de usuarios"
+
+#: main/admin.php:147
+msgid "View Site"
+msgstr "Ver sitio"
+
+#: main/onboarding.php:1037
+msgid "Visit Website"
+msgstr "Visitar sitio web"
+
+#: main/intros.php:39
+#, fuzzy
+msgid ""
+"We have simplified complex WordPress settings that you can now manage with "
+"just a click via the Assistant."
+msgstr ""
+"Hemos simplificado complejas configuraciones de WordPress que ahora puedes "
+"gestionar con un solo clic a través del Asistente."
+
+#: main/onboarding.php:992
+#, fuzzy
+msgid ""
+"We try our best to use images that are free to use from legal perspectives. "
+"However, we are not liable for any copyright infringement for your site."
+msgstr ""
+"Hacemos todo lo posible por utilizar imágenes cuyo uso sea libre desde el "
+"punto de vista legal. Sin embargo, no somos responsables de ninguna "
+"infracción de los derechos de autor de su sitio."
+
+#: main/setup.php:153
+#, fuzzy
+msgid ""
+"We will install the appropriate plugins that will add the required "
+"functionality to your website"
+msgstr ""
+"Instalaremos los plugins adecuados que añadirán la funcionalidad requerida a "
+"su sitio web"
+
+#: main/setup.php:8
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: main/setup.php:82
+msgid "Welcome to the Onboarding process!"
+msgstr "¡Bienvenido al proceso de configuración!"
+
+#: main/setup.php:152
+msgid "What are you looking to achieve with your new site ?"
+msgstr "¿Qué espera conseguir con su nuevo sitio web?"
+
+#: main/onboarding.php:158
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: main/admin.php:61
+#, fuzzy
+msgid "WordPress admin Dashboard"
+msgstr "Panel de administración de WordPress"
+
+#: main/admin.php:332
+#, fuzzy
+msgid "WordPress Assistant"
+msgstr "Asistente de WordPress"
+
+#: main/onboarding.php:1038
+msgid "WordPress Dashboard"
+msgstr "Dashboard WordPress"
+
+#: main/admin.php:58
+msgid "WordPress Sidebar"
+msgstr "WordPress SideBar"
+
+#: main/intros.php:314
+#, fuzzy
+msgid ""
+"You can edit the user information, change password, change role and much "
+"more with the Edit link here."
+msgstr ""
+"Puede editar la información del usuario, cambiar la contraseña, cambiar el "
+"rol y mucho más con el enlace Editar aquí."
+
+#: main/onboarding.php:1029
+#, fuzzy
+msgid ""
+"You can now customize the website as per your requirements with the help of "
+"Pagelayer or the Customizer.<br><br>\n"
+"\t\t\t\t<b>Note</b> : We strongly recommend you change all images and media. "
+"We try our best to use images which are copyright free or are allowed under "
+"their licensing. However, we take no responsibilities for the same and "
+"recommend you change all media and images !"
+msgstr ""
+"Ahora puede personalizar el sitio web según sus necesidades con la ayuda de "
+"Pagelayer o el Personalizador.<br><br>\n"
+"\t\t\t\t<b>Nota</b>: Le recomendamos encarecidamente que cambie todas las "
+"imágenes y los medios de comunicación. Hacemos todo lo posible para utilizar "
+"imágenes que son libres de derechos de autor o están permitidos bajo su "
+"licencia. ¡Sin embargo, no asumimos ninguna responsabilidad por lo mismo y "
+"le recomendamos que cambie todos los medios de comunicación y las imágenes!"
+
+#: main/intros.php:179
+#, fuzzy
+msgid ""
+"You can perform actions for your plugins like Activate, Deactivate, Update, "
+"Delete, Plugin Settings and more.. <br /><br />It is recommended to delete "
+"plugins that you do not plan to use and keep all your plugins up to date."
+msgstr ""
+"Puedes realizar acciones para tus plugins como Activar, Desactivar, "
+"Actualizar, Borrar, Configuración de plugins y más.. <br /><br />Se "
+"recomienda eliminar los plugins que no piensa utilizar y mantener todos sus "
+"plugins actualizados."
+
+#: main/intros.php:231
+#, fuzzy
+msgid ""
+"You can perform actions for your theme like Activate, Live Preview, "
+"Customize and more <br /><br />It is recommended to delete themes that you "
+"do not plan to use and keep all your themes up to date."
+msgstr ""
+"Puede realizar acciones para su tema como Activar, Vista previa en vivo, "
+"Personalizar y más <br /><br />Se recomienda eliminar los temas que no "
+"piensa utilizar y mantener todos sus temas actualizados."
+
+#: main/intros.php:67
+#, fuzzy
+msgid "You can use this link to preview your site as a visitor."
+msgstr "Puede utilizar este enlace para previsualizar su sitio como visitante."
+
+#: main/intros.php:430
+#, fuzzy
+msgid "You can view, edit or delete the pages with the links here."
+msgstr "Aquí puede ver, editar o eliminar las páginas con los enlaces."
+
+#: main/intros.php:369
+#, fuzzy
+msgid "You can view, edit or delete the posts with the links here."
+msgstr "Puede ver, editar o eliminar los mensajes con los enlaces aquí."
+
+#: main/onboarding.php:814
+#, fuzzy
+msgid "You do not have enough permissions to install theme"
+msgstr "No tiene suficientes permisos para instalar el tema"
+
+#: main/media.php:519
+msgid "You do not have permission to upload files."
+msgstr "No tiene permiso para cargar archivos."
+
+#: main/ai.php:65 main/ai.php:175
+#, fuzzy
+msgid "You do not have required privilege"
+msgstr "Usted no tiene el privilegio requerido"
+
+#: main/intros.php:225
+#, fuzzy
+msgid "Your active theme will be listed here."
+msgstr "Aquí aparecerá su tema activo."
+
+#: main/intros.php:50 main/intros.php:60
+#, fuzzy
+msgid "Your Assistant"
+msgstr "Su asistente"
+
+#: main/functions.php:410
+#, fuzzy, php-format
+msgid ""
+"Your Onboarding process is not completed yet! <a href=\"%1$s\" "
+"target=\"_blank\">Click here</a> to complete the simple setup process and "
+"build your site in a few steps."
+msgstr ""
+"¡Su proceso de Onboarding aún no ha finalizado! <a href=\"%1$s\" "
+"target=\"_blank\">Haga clic aquí</a> para completar el sencillo proceso de "
+"configuración y construir su sitio en unos pocos pasos."
+
+#: main/onboarding.php:568
+#, fuzzy, php-format
+msgid ""
+"Your Pagelayer version is %1$s while the onboarding requires Pagelayer "
+"version higher than or equal to 1.8.9"
+msgstr ""
+"Su versión de Pagelayer es %1$s mientras que el onboarding requiere una "
+"versión de Pagelayer superior o igual a 1.8.9"
+
+#: main/onboarding.php:562
+#, fuzzy, php-format
+msgid ""
+"Your Pagelayer version is %1$s while the template requires Pagelayer version "
+"higher than or equal to %2$s "
+msgstr ""
+"Su versión de Pagelayer es %1$s mientras que la plantilla requiere una "
+"versión de Pagelayer superior o igual a %2$s"
+
+#: main/onboarding.php:574
+#, fuzzy, php-format
+msgid ""
+"Your PopularFX Plugin version is %1$s while the template requires PopularFX "
+"version higher than or equal to %2$s"
+msgstr ""
+"La versión de su plugin PopularFX es %1$s mientras que la plantilla requiere "
+"una versión de PopularFX superior o igual a %2$s"
+
+#: main/functions.php:377
+#, fuzzy, php-format
+msgid ""
+"Your SoftWP plugin is %1$s. Please enter the license key <a "
+"href=\"%2$s\">here</a>."
+msgstr ""
+"Su plugin SoftWP es %1$s. Introduzca <a href=\"%2$s\">aquí</a> la clave de "
+"licencia."
+
+#: main/functions.php:389
+#, fuzzy, php-format
+msgid ""
+"Your SoftWP plugin license has %1$s. Please renew your license for "
+"uninterrupted updates and support."
+msgstr ""
+"Su licencia del plugin SoftWP tiene %1$s. Por favor, renueve su licencia "
+"para actualizaciones ininterrumpidas y soporte."
+
+#: main/functions.php:384
+#, fuzzy, php-format
+msgid ""
+"Your SoftWP plugin license is <b><font style=\"color:red;\">not authorized</"
+"font></b> to be used on  <b><i>%1$s</i></b>. You can generate a new license "
+"for your domain from the <b>%2$s</b> panel."
+msgstr ""
+"La licencia de su plugin SoftWP <b><font style=\"color:red;\">no está "
+"autorizada</font></b> para ser utilizado en  <b><i>%1$s</i></b>. Puede "
+"generar una nueva licencia para su dominio desde el <b>%2$s</b> panel."
